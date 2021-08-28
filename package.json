@@ -1,0 +1,22 @@
+{
+  "name": "ts-utils-rc",
+  "version": "1.0.0",
+  "description": "Pacotes de formatação",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kirigaya-Kazuton/ts-utils-rc.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Thiago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kirigaya-Kazuton/ts-utils-rc/issues"
+  },
+  "homepage": "https://github.com/Kirigaya-Kazuton/ts-utils-rc#readme"
+}
