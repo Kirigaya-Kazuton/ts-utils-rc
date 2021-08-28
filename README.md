@@ -4,6 +4,7 @@ como usar?
 
 ```shell
 npm i ts-utils-rc
+yarn add ts-utils-rc
 ```
 
 ```js
